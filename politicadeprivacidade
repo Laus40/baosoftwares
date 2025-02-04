@@ -1,0 +1,53 @@
+# Política de Privacidade - Meu Aplicativo
+
+Este repositório contém a página de Política de Privacidade do meu aplicativo. Esta página descreve como o aplicativo coleta, usa, armazena e compartilha dados dos usuários.
+
+## Introdução
+
+A sua privacidade é muito importante para nós. Esta Política de Privacidade explica como coletamos, usamos e protegemos as informações fornecidas pelos usuários em nosso aplicativo.
+
+## O que coletamos
+
+- **Informações pessoais**: Podemos coletar informações como nome, e-mail, localização e outros dados pessoais que você fornece ao usar nosso aplicativo.
+- **Dados de uso**: Coletamos informações sobre como o aplicativo é acessado e utilizado, como o tipo de dispositivo, a versão do sistema operacional, e dados de interação com o aplicativo.
+
+## Como usamos as informações
+
+As informações coletadas são usadas para:
+- Melhorar a experiência do usuário no aplicativo.
+- Fornecer suporte técnico e resolver problemas técnicos.
+- Enviar atualizações e notificações importantes relacionadas ao serviço.
+
+## Compartilhamento de dados
+
+Não compartilhamos suas informações pessoais com terceiros, exceto conforme necessário para o fornecimento do serviço ou conforme exigido por lei.
+
+## Segurança
+
+Adotamos medidas de segurança razoáveis para proteger suas informações pessoais contra acessos não autorizados e uso indevido.
+
+## Alterações na Política de Privacidade
+
+Podemos atualizar esta Política de Privacidade de tempos em tempos. Quaisquer alterações serão publicadas nesta página.
+
+## Contato
+
+Se você tiver dúvidas sobre esta Política de Privacidade ou quiser mais informações, entre em contato conosco pelo e-mail: [seu-email@example.com].
+
+---
+
+## Instruções de Publicação no GitHub Pages
+
+Para hospedar esta página no GitHub Pages:
+
+1. Faça o upload deste repositório para o seu GitHub.
+2. Ative o GitHub Pages nas configurações do repositório.
+3. Acesse a URL fornecida pelo GitHub Pages para visualizar a Política de Privacidade.
+
+Exemplo de URL: `https://seu-usuario.github.io/nome-do-repositorio/`
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
