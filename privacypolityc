@@ -1,65 +1,70 @@
-# Política de Privacidade - Mine Five Bomb
+# Política de Privacidade – Five Mine Bomb
 
-Este documento descreve como o jogo **Mine Five Bomb** coleta, utiliza, armazena e protege as informações dos usuários.
+**Última atualização:** 26 de junho de 2025  
+**Aplicativo:** Five Mine Bomb  
+**Desenvolvedor:** Technology Studio Games
+
+Este documento descreve como o jogo **Five Mine Bomb**, publicado por **Technology Studio Games**, coleta, utiliza, armazena e protege as informações dos usuários.
 
 ## Introdução
 
-A sua privacidade é muito importante para nós. Esta Política de Privacidade explica como o jogo **Mine Five Bomb** coleta, usa e protege as informações pessoais dos jogadores. Ao usar o aplicativo, você concorda com a coleta e o uso das suas informações de acordo com esta política.
+A sua privacidade é muito importante para nós. Esta Política de Privacidade explica como o jogo **Five Mine Bomb** coleta, usa e protege as informações pessoais dos jogadores. Ao usar o aplicativo, você concorda com a coleta e o uso das suas informações de acordo com esta política.
 
 ## Informações que coletamos
 
-O **Mine Five Bomb** pode coletar as seguintes informações dos usuários:
+O **Five Mine Bomb** pode coletar as seguintes informações dos usuários:
 
-### 1. **Informações Pessoais**
-O jogo não coleta informações pessoais identificáveis como nome, endereço de e-mail, número de telefone, etc.
+### 1. Informações Pessoais
+O jogo **não coleta informações pessoais identificáveis** como nome, endereço de e-mail ou número de telefone.
 
-### 2. **Informações de Uso**
-Coletamos informações sobre como você interage com o jogo, como o tempo de jogo, as ações realizadas durante o jogo, o dispositivo que você está usando (como o modelo e a versão do sistema operacional), e o seu endereço IP. Esses dados são usados para melhorar a experiência do usuário e para fornecer suporte técnico.
+### 2. Informações de Uso
+Coletamos informações sobre como você interage com o jogo, como:
+- Tempo de jogo
+- Ações realizadas durante a partida
+- Informações do dispositivo (modelo, sistema operacional)
+- Endereço IP (para análise de erros e estatísticas)
 
-### 3. **Publicidade**
-O jogo pode exibir anúncios de terceiros. Esses anunciantes podem coletar informações de seu dispositivo, como a sua localização e os aplicativos que você utiliza, para personalizar os anúncios exibidos.
+### 3. Publicidade
+O jogo pode exibir **anúncios de terceiros**. Esses anunciantes podem coletar dados do dispositivo e de uso para oferecer anúncios personalizados.
 
 ## Como usamos as informações
 
 As informações coletadas são usadas para:
 - Melhorar e personalizar sua experiência no jogo.
-- Fornecer suporte técnico e resolver problemas relacionados ao jogo.
-- Exibir anúncios relevantes para o jogador, através de serviços de publicidade de terceiros.
+- Fornecer suporte técnico.
+- Exibir anúncios relevantes por meio de redes de publicidade.
 
 ## Compartilhamento de Dados
 
-Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para:
-- Cumprir com uma obrigação legal ou regulamentar.
-- Fornecer os serviços de publicidade de terceiros que utilizamos no jogo.
+Seus dados não são vendidos. Podemos compartilhar informações com:
+- Prestadores de serviços que auxiliam na operação do jogo.
+- Autoridades legais, quando necessário.
+- Redes de anúncios, conforme exigido para exibição de publicidade.
 
 ## Segurança
 
-Tomamos medidas razoáveis para proteger suas informações pessoais contra acessos não autorizados e uso indevido. No entanto, não podemos garantir a segurança total das suas informações, pois nenhum método de transmissão pela internet ou de armazenamento eletrônico é 100% seguro.
+Tomamos medidas razoáveis para proteger suas informações. No entanto, nenhum sistema é 100% seguro.
 
-## Alterações na Política de Privacidade
+## Alterações nesta Política
 
-Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer alterações serão publicadas nesta página. Recomendamos que você revise esta política regularmente para se manter informado sobre como protegemos suas informações.
+Podemos atualizar esta política periodicamente. Todas as mudanças serão publicadas nesta página.
 
 ## Contato
 
-Se você tiver dúvidas sobre esta Política de Privacidade ou sobre como tratamos suas informações, entre em contato conosco através do e-mail: **tecnologystudiogames@gmail.com**.
+Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
-## Dados de Contato e Suporte Técnico
-
-- **Email para suporte:** tecnologystudiogames@gmail.com
-
+- **Email de suporte:** tecnologystudiogames@gmail.com
 
 ---
 
 ## Publicação no Google Play
 
-Para que a sua Política de Privacidade seja reconhecida no Google Play Console, você deve incluir um link para esta página de Política de Privacidade no campo apropriado das configurações do aplicativo.
+Esta Política de Privacidade está disponível publicamente em:  
+📄 `https://seuusuario.github.io/FiveMineBomb/politica-privacidade.html`  
+(Substitua com o link real no seu GitHub Pages)
 
-Caso você esteja usando o **GitHub Pages** ou qualquer outra plataforma de hospedagem, o link de sua Política de Privacidade deve ser inserido diretamente no Google Play Console.
-
-**Exemplo de URL para Google Play Console:**
-[https://seuusuario.github.io/MineFiveBomb/](https://seuusuario.github.io/MineFiveBomb/)
+---
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
